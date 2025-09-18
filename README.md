@@ -4,3 +4,5 @@ formation sur Git
 bienvenue dans la formation Git
 
 j'ajoute une autre partie de texte
+
+j'ajoute encore une autre partie de texte
